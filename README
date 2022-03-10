@@ -1,1 +1,2 @@
 test1
+mvn clean deploy -P profile1
