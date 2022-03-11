@@ -15,7 +15,7 @@
   <repositories>
     <repository>
       <id>maven-public</id>
-      <url>http://ec2-3-137-211-116.us-east-2.compute.amazonaws.com:8081/repository/maven-public/</url>
+      <url>http://172.31.3.156:8081/repository/maven-public/</url>
     </repository>
   </repositories>
   <dependencies>
